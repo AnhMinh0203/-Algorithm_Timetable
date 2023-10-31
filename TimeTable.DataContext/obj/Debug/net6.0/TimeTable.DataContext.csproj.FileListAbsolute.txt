@@ -1,0 +1,24 @@
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.deps.json
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.csproj.AssemblyReference.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.AssemblyInfoInputs.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.AssemblyInfo.cs
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.csproj.CoreCompileInputs.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\refint\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.pdb
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.DataContext\obj\Debug\net6.0\ref\TimeTable.DataContext.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.deps.json
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\bin\Debug\net6.0\TimeTable.DataContext.pdb
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.csproj.AssemblyReference.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.AssemblyInfoInputs.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.AssemblyInfo.cs
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.csproj.CoreCompileInputs.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\refint\TimeTable.DataContext.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\TimeTable.DataContext.pdb
+D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\obj\Debug\net6.0\ref\TimeTable.DataContext.dll

@@ -1,0 +1,30 @@
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.deps.json
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.pdb
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.AssemblyReference.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfoInputs.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfo.cs
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CoreCompileInputs.cache
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CopyComplete
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\refint\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.pdb
+E:\Nghiên cứu khoa học EAUT\TimeTableProjectEAUT2\TimeTable.Respository\obj\Debug\net6.0\ref\TimeTable.Respository.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.deps.json
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.pdb
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.pdb
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.AssemblyReference.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfoInputs.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfo.cs
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CoreCompileInputs.cache
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CopyComplete
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\refint\TimeTable.Respository.dll
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.pdb
+D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\ref\TimeTable.Respository.dll
