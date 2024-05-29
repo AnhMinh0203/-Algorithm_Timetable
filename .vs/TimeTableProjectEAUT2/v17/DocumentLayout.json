@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|e:\\nghiencuukhoahoc_eaut\\thuattoan\\-algorithm_timetable\\timetable.respository\\lecture_schedulemanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\lecture_schedulemanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\lectureschedurerepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\lectureschedurerepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\controllers\\lectureschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\controllers\\lectureschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\controllers\\lecture_schedulemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\controllers\\lecture_schedulemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|e:\\nghiencuukhoahoc_eaut\\thuattoan\\-algorithm_timetable\\timetable.datacontext\\models\\lecture_schedulemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|solutionrelative:timetable.datacontext\\models\\lecture_schedulemanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|e:\\nghiencuukhoahoc_eaut\\thuattoan\\-algorithm_timetable\\timetable.respository\\interfaces\\ilectureschedurerepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\interfaces\\ilectureschedurerepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|e:\\nghiencuukhoahoc_eaut\\thuattoan\\-algorithm_timetable\\timetable.respository\\interfaces\\ilecture_schedulemanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\interfaces\\ilecture_schedulemanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE53073D-4BD2-45F3-BCD2-6E010BE98C4B}|TimeTable.UnitTest\\TimeTable.UnitTest.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE53073D-4BD2-45F3-BCD2-6E010BE98C4B}|TimeTable.UnitTest\\TimeTable.UnitTest.csproj|solutionrelative:timetable.unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.datacontext\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|solutionrelative:timetable.datacontext\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\classroomrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\classroomrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\usermanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\usermanagerrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\editaccountrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\editaccountrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\subjectrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\subjectrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.datacontext\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|solutionrelative:timetable.datacontext\\data\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\classrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\classrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\changerpasswordrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\changerpasswordrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.datacontext\\models\\usermanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A8866A-BC3E-46B5-8637-040311044001}|TimeTable.DataContext\\TimeTable.DataContext.csproj|solutionrelative:timetable.datacontext\\models\\usermanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.api\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF102-A70B-4EEE-A037-5DA1288C7635}|TimeTable.API\\TimeTable.API.csproj|solutionrelative:timetable.api\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\timetable.respository\\interfaces\\iclassrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F02960-C783-4C8B-A03B-3AA5FEE413C8}|TimeTable.Respository\\TimeTable.Respository.csproj|solutionrelative:timetable.respository\\interfaces\\iclassrepons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILectureSchedureRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\ILectureSchedureRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\Interfaces\\ILectureSchedureRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\ILectureSchedureRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\Interfaces\\ILectureSchedureRepons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:29:16.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LectureSchedureRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\LectureSchedureRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\LectureSchedureRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\LectureSchedureRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\LectureSchedureRepons.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T14:43:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lecture_ScheduleManagerRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Lecture_ScheduleManagerRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\Lecture_ScheduleManagerRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Lecture_ScheduleManagerRepons.cs*",
+              "RelativeToolTip": "TimeTable.Respository\\Lecture_ScheduleManagerRepons.cs*",
+              "ViewState": "AQIAAO4FAAAAAAAAAADgv/8FAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-02T15:33:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LectureScheduleController.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\LectureScheduleController.cs",
+              "RelativeDocumentMoniker": "TimeTable.API\\Controllers\\LectureScheduleController.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\LectureScheduleController.cs",
+              "RelativeToolTip": "TimeTable.API\\Controllers\\LectureScheduleController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-07T07:41:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture_ScheduleManagerController.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\Lecture_ScheduleManagerController.cs",
+              "RelativeDocumentMoniker": "TimeTable.API\\Controllers\\Lecture_ScheduleManagerController.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\Lecture_ScheduleManagerController.cs",
+              "RelativeToolTip": "TimeTable.API\\Controllers\\Lecture_ScheduleManagerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T15:50:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecture_ScheduleManagerModel.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\Lecture_ScheduleManagerModel.cs",
+              "RelativeDocumentMoniker": "TimeTable.DataContext\\Models\\Lecture_ScheduleManagerModel.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\Lecture_ScheduleManagerModel.cs",
+              "RelativeToolTip": "TimeTable.DataContext\\Models\\Lecture_ScheduleManagerModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:00:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TimeTable.API\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TimeTable.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADgvzIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:12:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILecture_ScheduleManagerRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\ILecture_ScheduleManagerRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\Interfaces\\ILecture_ScheduleManagerRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\ILecture_ScheduleManagerRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\Interfaces\\ILecture_ScheduleManagerRepons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:21:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "TimeTable.DataContext\\Models\\SignUpModel.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "TimeTable.DataContext\\Models\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:42:19.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeTable.API\\appsettings.json",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\appsettings.json",
+              "RelativeToolTip": "TimeTable.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-02T15:33:25.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\UserRepository.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\UserRepository.cs",
+              "RelativeToolTip": "TimeTable.Respository\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-02T15:33:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TimeTable.UnitTest\\UnitTest1.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "TimeTable.UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassRoomRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ClassRoomRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\ClassRoomRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ClassRoomRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\ClassRoomRepons.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:00:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagerRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\UserManagerRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\UserManagerRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\UserManagerRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\UserManagerRepons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T14:00:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditAccountRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\EditAccountRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\EditAccountRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\EditAccountRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\EditAccountRepons.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:08:12.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "TimeTable.API\\Controllers\\ClassController.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "TimeTable.API\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwEEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T15:53:30.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubjectRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\SubjectRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\SubjectRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\SubjectRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\SubjectRepons.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwLYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T15:35:57.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClassRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ClassRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\ClassRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ClassRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\ClassRepons.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAYwPEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T14:37:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Data\\Subject.cs",
+              "RelativeDocumentMoniker": "TimeTable.DataContext\\Data\\Subject.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Data\\Subject.cs",
+              "RelativeToolTip": "TimeTable.DataContext\\Data\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T15:36:21.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChangerPasswordRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ChangerPasswordRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\ChangerPasswordRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\ChangerPasswordRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\ChangerPasswordRepons.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:20:32.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserManagerModel.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\UserManagerModel.cs",
+              "RelativeDocumentMoniker": "TimeTable.DataContext\\Models\\UserManagerModel.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.DataContext\\Models\\UserManagerModel.cs",
+              "RelativeToolTip": "TimeTable.DataContext\\Models\\UserManagerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:17:14.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserManagerController.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\UserManagerController.cs",
+              "RelativeDocumentMoniker": "TimeTable.API\\Controllers\\UserManagerController.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.API\\Controllers\\UserManagerController.cs",
+              "RelativeToolTip": "TimeTable.API\\Controllers\\UserManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:15:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IClassRepons.cs",
+              "DocumentMoniker": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\IClassRepons.cs",
+              "RelativeDocumentMoniker": "TimeTable.Respository\\Interfaces\\IClassRepons.cs",
+              "ToolTip": "E:\\NghienCuuKhoaHoc_EAUT\\ThuatToan\\-Algorithm_Timetable\\TimeTable.Respository\\Interfaces\\IClassRepons.cs",
+              "RelativeToolTip": "TimeTable.Respository\\Interfaces\\IClassRepons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T15:53:46.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

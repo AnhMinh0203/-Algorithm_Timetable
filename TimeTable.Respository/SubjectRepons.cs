@@ -79,7 +79,7 @@ namespace TimeTable.Repository
             {
                 using (var connect = _connectToSql.CreateConnection())
                 {
-                    var check = await connect.ExecuteAsync("DELETEById", new { NameTable = "Subjects" , Id = roomId }, commandType: CommandType.StoredProcedure);
+                    var check = await connect.ExecuteAsync("DeleteSubject", new {  Id = roomId }, commandType: CommandType.StoredProcedure);
                     if (check == 1) result = "Xóa môn học thành công";
                     else result = "Xóa môn học thất bại"; 
                 }

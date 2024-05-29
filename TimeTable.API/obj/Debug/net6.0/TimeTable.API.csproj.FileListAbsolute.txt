@@ -148,3 +148,155 @@ D:\WorkSpace\API_TimeTable6\TimeTable.API\obj\Debug\net6.0\refint\TimeTable.API.
 D:\WorkSpace\API_TimeTable6\TimeTable.API\obj\Debug\net6.0\TimeTable.API.pdb
 D:\WorkSpace\API_TimeTable6\TimeTable.API\obj\Debug\net6.0\TimeTable.API.genruntimeconfig.cache
 D:\WorkSpace\API_TimeTable6\TimeTable.API\obj\Debug\net6.0\ref\TimeTable.API.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\appsettings.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.exe
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.deps.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.runtimeconfig.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Dapper.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.Interfaces.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.Respository.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.csproj.AssemblyReference.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.AssemblyInfoInputs.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.AssemblyInfo.cs
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.csproj.CoreCompileInputs.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.TimeTable.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.build.TimeTable.API.props
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TimeTable.API.props
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TimeTable.API.props
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\scopedcss\bundle\TimeTable.API.styles.css
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\refint\TimeTable.API.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.genruntimeconfig.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\ref\TimeTable.API.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.sourcelink.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTabl.33BDC460.Up2Date
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\appsettings.Development.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\appsettings.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.exe
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.deps.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.runtimeconfig.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.API.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Dapper.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.Interfaces.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.Respository.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.Respository.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.csproj.AssemblyReference.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.AssemblyInfoInputs.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.AssemblyInfo.cs
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.csproj.CoreCompileInputs.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.MvcApplicationPartsAssemblyInfo.cs
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.MvcApplicationPartsAssemblyInfo.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.sourcelink.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.TimeTable.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.build.TimeTable.API.props
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TimeTable.API.props
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TimeTable.API.props
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\scopedcss\bundle\TimeTable.API.styles.css
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTabl.33BDC460.Up2Date
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\refint\TimeTable.API.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\TimeTable.API.genruntimeconfig.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.API\obj\Debug\net6.0\ref\TimeTable.API.dll

@@ -17,8 +17,7 @@ namespace TimeTable.DataContext.Models
         public string Password { get; set; } = null!;
         [Required]
         public string ConfirmPassword { get; set; } = null!;
-        [Required]
-        public string TypeAccount { get; set; }
+        public string? TypeAccount { get; set; }
         public string Gender { get; set; } = null!;
         public DateTime DateOfBirth { get; set; }
         public string Avata { get; set; } = null!;

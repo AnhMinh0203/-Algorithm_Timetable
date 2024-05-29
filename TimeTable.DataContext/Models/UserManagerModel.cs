@@ -9,7 +9,7 @@
         public string UserName { get; set; }
         public string Email { get; set; }
         public int Phone { get; set; }
-        public string Type { get; set; }
+        public string? Type { get; set; }
         public int Gender { get; set; }
         public DateTime DateOfBirth { get; set; }
         public int UsedState { get; set; } 

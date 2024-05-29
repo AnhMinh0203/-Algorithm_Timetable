@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TimeTable.DataContext.Models;
+using TimeTable.Repository;
 using TimeTable.Respository.Interfaces;
 
 namespace TimeTable.API.Controllers
@@ -36,6 +37,17 @@ namespace TimeTable.API.Controllers
             var result = await _lecture_ScheduleManagerRepons.SchedulingAscync(schedulingInputModel);   
             if(result == null) MethodResult.ResultWithError(result, 400, "Error", 0);
             return MethodResult.ResultWithSuccess(result, 200, "Successfull");
+        }
+
+        [HttpGet("Excel")]
+        public async Task<MethodResult> ExportToExcel()
+        {
+            var result = await _lecture_ScheduleManagerRepons.ExportToExcelAsync();
+            if (result == null)
+            {
+                return MethodResult.ResultWithError(result, 400, "Error", 0);
+            }
+            return MethodResult.ResultWithSuccess(result, 200, "Successfull", 0);
         }
     }
 }

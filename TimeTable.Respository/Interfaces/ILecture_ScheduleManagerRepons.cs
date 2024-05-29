@@ -15,5 +15,6 @@ namespace TimeTable.Respository.Interfaces
         public Task<string> UpdateLecture_ScheduleManagerAsync(Guid id, Lecture_ScheduleManagerModel lecture_ScheduleManagerModel);
         public Task<string> AddLecture_ScheduleManagerAsync(Lecture_ScheduleManagerModel model);
         public Task<List<LectureSchedureMapUserModel>> SchedulingAscync(SchedulingInputModel schedulingInputModel);
+        public Task<byte[]> ExportToExcelAsync();
     }
 }

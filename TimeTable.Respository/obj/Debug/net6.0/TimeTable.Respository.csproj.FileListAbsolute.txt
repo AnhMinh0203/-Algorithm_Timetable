@@ -28,3 +28,35 @@ D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Res
 D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\refint\TimeTable.Respository.dll
 D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.pdb
 D:\WorkSpace\API_TimeTable6\TimeTable.Respository\obj\Debug\net6.0\ref\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.deps.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.AssemblyReference.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfoInputs.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfo.cs
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CoreCompileInputs.cache
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\refint\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.pdb
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\ref\TimeTable.Respository.dll
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.sourcelink.json
+E:\Nghiên cứu khoa học EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTabl.7B57C3EA.Up2Date
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.deps.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.Respository.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\bin\Debug\net6.0\TimeTable.DataContext.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.AssemblyReference.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.GeneratedMSBuildEditorConfig.editorconfig
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfoInputs.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.AssemblyInfo.cs
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.csproj.CoreCompileInputs.cache
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.sourcelink.json
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTabl.7B57C3EA.Up2Date
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\refint\TimeTable.Respository.dll
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\TimeTable.Respository.pdb
+E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.Respository\obj\Debug\net6.0\ref\TimeTable.Respository.dll

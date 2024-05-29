@@ -9,5 +9,6 @@
         public DateTime DateEnd { get; set; }
         public int appear { get; set; }
         public string course_code { get; set; }
+        public string Description { get; set; }
     }
 }

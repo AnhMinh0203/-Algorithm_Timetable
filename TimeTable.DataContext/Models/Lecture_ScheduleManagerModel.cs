@@ -14,6 +14,8 @@
     {
         public DateTime DateStart { get; set; }
         public DateTime DateEnd { get; set; }
+        public DateTime DateCreate { get; set; }
+        public int Count { get; set; }
         public List<Guid> Idclasses { get; set; }
         public List<Guid> IdclassRooms { get; set; }
         public List<Guid> Idsubjects { get; set; }

@@ -1,8 +1,12 @@
 ﻿using Dapper;
 using Microsoft.IdentityModel.Tokens;
+using OfficeOpenXml.Style;
+using OfficeOpenXml;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Diagnostics;
+using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Printing;
 using TimeTable.DataContext.Data;
@@ -53,6 +57,83 @@ namespace TimeTable.Repository
             catch(Exception ex)
             {
                 throw new Exception(ex.Message);
+            }
+        }
+
+        public async Task<byte[]> ExportToExcelAsync()
+        {
+            try
+            {
+                using (var connection = _connectToSql.CreateConnection())
+                {
+                    List<Lecture_ScheduleManagerModel> reportClass = (await connection.QueryAsync<Lecture_ScheduleManagerModel>("ReportExcelSchedule", commandType: CommandType.StoredProcedure)).ToList();
+                    byte[] excelBytes = ExportToExcel(reportClass);
+                    DateTime dateTime = DateTime.Now;
+                    // Lưu dữ liệu vào một tệp Excel tạm thời trên đĩa
+                    string tempPath = Path.Combine(Path.GetTempPath(), "Class" + dateTime.Hour + "_" + dateTime.Minute + "_" + dateTime.Second + ".xlsx");
+                    File.WriteAllBytes(tempPath, excelBytes);
+
+                    // Mở tệp Excel và chèn dữ liệu từ tệp Excel tạm thời
+                    Process.Start(new ProcessStartInfo
+                    {
+                        FileName = tempPath,
+                        UseShellExecute = true
+                    });
+                    // Trả về dữ liệu Excel dưới dạng byte[]
+                    return excelBytes;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public byte[] ExportToExcel(List<Lecture_ScheduleManagerModel> reportClass)
+        {
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            using (var package = new ExcelPackage())
+            {
+                var worksheet = package.Workbook.Worksheets.Add("Class");
+
+                // Fill data into the Excel sheet
+                worksheet.Cells.LoadFromCollection(reportClass, true);
+
+                // Customize column styles
+                using (var range = worksheet.Cells[1, 1, 1, worksheet.Dimension.Columns])
+                {
+                    range.Style.Font.Bold = true;
+                    range.Style.Fill.PatternType = ExcelFillStyle.Solid;
+                    range.Style.Fill.BackgroundColor.SetColor(Color.Aqua); // Example color
+                    range.Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
+                }
+                // Add border around all cells
+                for (int row = 1; row <= worksheet.Dimension.Rows; row++)
+                {
+                    for (int col = 1; col <= worksheet.Dimension.Columns; col++)
+                    {
+                        using (var cell = worksheet.Cells[row, col])
+                        {
+                            cell.Style.Border.BorderAround(ExcelBorderStyle.Thin, Color.Black);
+                        }
+                    }
+                }
+                // Format Date columns
+                var dateColumns = new List<int> { 4, 6, 8 }; // Assuming DateStart is column 3 and DateEnd is column 4
+                foreach (var column in dateColumns)
+                {
+                    using (var columnRange = worksheet.Cells[2, column, worksheet.Dimension.Rows, column])
+                    {
+                        columnRange.Style.Numberformat.Format = "dd-mm-yyyy"; // Customize the date format as needed
+                    }
+                }
+
+
+                // Convert the Excel package to a byte array
+                byte[] excelData = package.GetAsByteArray();
+
+                return excelData;
             }
         }
         public async Task<(List<Lecture_ScheduleManagerModel>, int)> GetLecture_ScheduleManagerByNameAsync(string name, int pageIndex, int pageSize)
@@ -108,7 +189,7 @@ namespace TimeTable.Repository
                     foreach (var idsubject in schedulingInputModel.Idsubjects)
                     {
                         var subject = await connect.QueryFirstOrDefaultAsync<Subject>("GetById", new { NameTable = "Subjects", Id = idsubject }, commandType: CommandType.StoredProcedure);
-                        subject.appear = (subject.Credits * 5) / (daysDifference / 7);
+                        subject.appear = (int)Math.Ceiling((subject.Credits * 5) / (daysDifference / 7.0));
                         SubjectList.Add(subject);
                         totalAprear += subject.appear;
 
@@ -925,10 +1006,11 @@ namespace TimeTable.Repository
                         {
                             SqlCommand cmd = new SqlCommand();
                             cmd.CommandType = CommandType.Text;
-                            cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass, createDate) VALUES (@id,@class, @createDate)";
+                            cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass, createDate, Count) VALUES (@id,@class, @createDate, @Count)";
                             cmd.Parameters.AddWithValue("@id", idSchedule);
                             cmd.Parameters.AddWithValue("@class", idclasses);
-                            cmd.Parameters.AddWithValue("@createDate", DateTime.Now);
+                            cmd.Parameters.AddWithValue("@createDate", schedulingInputModel.DateCreate);
+                            cmd.Parameters.AddWithValue("@Count", schedulingInputModel.Count);
                             cmd.Connection = (SqlConnection)connect;
                             connect.Open();
                             int kq = await cmd.ExecuteNonQueryAsync();
@@ -1132,9 +1214,10 @@ namespace TimeTable.Repository
                         {
                             SqlCommand cmd = new SqlCommand();
                             cmd.CommandType = CommandType.Text;
-                            cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass, createDate) VALUES (@id,@class, @createDate)";
+                            cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass, createDate, Count) VALUES (@id,@class, @createDate, @Count)";
                             cmd.Parameters.AddWithValue("@id", idSchedule);
                             cmd.Parameters.AddWithValue("@class", idclasses);
+                            cmd.Parameters.AddWithValue("@Count", schedulingInputModel.Count);
                             cmd.Parameters.AddWithValue("@createDate", DateTime.Now);
                             cmd.Connection = (SqlConnection)connect;
                             connect.Open();
@@ -1450,10 +1533,11 @@ namespace TimeTable.Repository
                     {
                         SqlCommand cmd = new SqlCommand();
                         cmd.CommandType = CommandType.Text;
-                        cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass,idClassroom, createDate) VALUES (@id,@class,@classRoom, @createDate)";
+                        cmd.CommandText = "INSERT INTO Lecture_Schedules (idLecture_Schedule,idClass,idClassroom, createDate, Count) VALUES (@id,@class,@classRoom, @createDate, @Count)";
                         cmd.Parameters.AddWithValue("@id", idSchedule);
                         cmd.Parameters.AddWithValue("@class", idclasses);
                         cmd.Parameters.AddWithValue("@classRoom", idClassRooms);
+                        cmd.Parameters.AddWithValue("@Count", schedulingInputModel.Count);
                         cmd.Parameters.AddWithValue("@createDate", DateTime.Now);
                         cmd.Connection = (SqlConnection)connect;
                         connect.Open();

@@ -50,7 +50,7 @@ namespace TimeTable.API.Controllers
 
         [HttpPost("SignIn")]
         public async Task<Custommessage> SignIn(SignInModel signInModel)
-            {
+        {
             var result = await accRepo.SignInAsync(signInModel);
             var result1 = new Custommessage();
             var user = await accRepo.GetByIdAsync(signInModel.Email);
@@ -86,5 +86,6 @@ namespace TimeTable.API.Controllers
             if (result == null) return NotFound(result);
             return Ok(result);
         }
+
     }
 }

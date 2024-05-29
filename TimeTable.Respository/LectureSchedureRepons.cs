@@ -90,6 +90,37 @@ namespace TimeTable.Repository
             }
         }
 
+        public async Task<(List<Lecture_ScheduleUserModel>, int)> GetCalendarJustArrangedAsync(int pageIndex, int pageSize, int check, string Name, int Count)
+        {
+            try
+            {
+
+                using (var connect = _connectToSql.CreateConnection())
+                {
+                    var parameters = new DynamicParameters();
+                    parameters.Add("@check", check);
+                    parameters.Add("@Name", Name);
+                    parameters.Add("@pageIndex", pageIndex);
+                    parameters.Add("@pageSize", pageSize);
+                    parameters.Add("@count", Count);
+                    parameters.Add("@totalRecords", dbType: DbType.Int32, direction: ParameterDirection.Output);
+
+                    var result = await connect.QueryAsync<Lecture_ScheduleUserModel>(
+                        "GetCalendarJustArranged",
+                        parameters,
+                        commandType: CommandType.StoredProcedure
+                    );
+
+                    int totalRecords = parameters.Get<int>("@totalRecords");
+                    return (result.ToList(), totalRecords);
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
         public async Task<(List<Lecture_ScheduleUserModel>, int)> GetSchedureByIdReponsAsync(string token,string search, int pageIndex, int pageSize)
         {
             try
@@ -155,13 +186,13 @@ namespace TimeTable.Repository
                     connect.Open();
                     int kq = await command.ExecuteNonQueryAsync();
                     if (kq > 0) result = "Đăng ký lịch thành công";
-                    else result = "Đăng ký lịch thất bại";
+                    else result = "Lịch đã trùng. Không thể đăng ký lịch này";
                 }
                 return result;
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                return result = ex.Message;
             }
         }
     }

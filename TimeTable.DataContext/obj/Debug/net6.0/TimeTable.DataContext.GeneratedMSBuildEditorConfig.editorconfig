@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TimeTable.DataContext
-build_property.ProjectDir = D:\WorkSpace\API_TimeTable6\TimeTable.DataContext\
+build_property.ProjectDir = E:\NghienCuuKhoaHoc_EAUT\ThuatToan\-Algorithm_Timetable\TimeTable.DataContext\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
